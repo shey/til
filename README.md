@@ -1,8 +1,8 @@
 # TIL
-TIL stands for today I learned. This is a collection of small, practical things I’ve learnt and re-learnt while writing software.
+This is a growing list of things I’ve had to learn or relearn while computering.
 
-## Ruby On Rails
+## Ruby / Rails
 
 1. [Inline Basic Auth For Rack App in routes.rb](rails/basic-auth-mount-in-routes.rb.md)
 2. [Using Date Ranges in Rails Queries](rails/active-record-date-range-query.markdown)
-   
+3. [Configure & Verify jemalloc Usage](rails/verify-jemalloc-ruby.md)
