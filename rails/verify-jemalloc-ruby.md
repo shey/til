@@ -3,7 +3,7 @@
 
 ### To control how jemalloc handles freed memory
 ```bash
-MALLOC_CONF="dirty_decay_ms:1000,muzzy_decay_ms:1000,background_thread:true"
+MALLOC_CONF="narenas:2,dirty_decay_ms:1000,muzzy_decay_ms:1000,background_thread:true"
 ```
 
 ### To Confirm MALLOC_CONF Was Applied
