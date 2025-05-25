@@ -1,4 +1,4 @@
-# You can wrap a mounted Rack app with Basic Auth inline in
+## You can wrap a mounted Rack app with Basic Auth inline in
 
 ```ruby
   mount Rack::Auth::Basic.new(Yabeda::Prometheus::Exporter) { |u, p|
