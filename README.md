@@ -1,5 +1,5 @@
 # TIL
-This is a growing list of things I’ve had to learn or relearn while computering.
+Things I’d rather not google for again.
 
 ## Ruby / Rails
 
