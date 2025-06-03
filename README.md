@@ -12,3 +12,4 @@ Things I’d rather not google for again.
 ## Infrastructure
 
 1. [Get Your Public IP via curl](infra/get-your-public-ip-via-curl.md)
+1. [Clean Up Old Git Branches](infra/clean-up-old-branches.md)
